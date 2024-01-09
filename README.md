@@ -1,2 +1,2 @@
-Git Solo Tutorial
+Git Solo Tutorial- Winter 2024
 Minseo Kim
